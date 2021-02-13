@@ -73,9 +73,5 @@ By playing on TacoMC, you agree to the following rules. If you notice that someo
 * As soon as a conversation moves to private messages outside of the server (DMs), we cannot moderate what happens. If the conversation is between a player and TacoMC Staff, any threats or messages intended to harm may result in punishment. This is for both the staff member and the player.
 * The job of moderators is to moderate and enforce the rules. They are not necessarily here to help you with gameplay, such as assisting with your builds. Do not waste their time.
 
-### Store purchases
-* All store purchases are final. Chargebacks will result in a permanent ban.
-* We do not offer refunds on purchases made unless you do not receive the advertised goods.
-
 ### Disclaimer
 * TacoMC ("us", "we", or "our") reserves the right to change these Rules at any time, at its sole discretion, without notice. Any change binds you as soon as you access the https://map.tacomc.xyz (the "Site"), the TacoMC Minecraft server (the "Server"), and the TacoMC Discord server (the "Discord Server"). We therefore strongly recommend checking the Rules on a regular basis.
